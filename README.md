@@ -1,2 +1,2 @@
 # singingTree
-Python code to play music/read PIR sensors using a Raspberry Pi. 
+Python code to play pitches based on PIR sensor inputs.
